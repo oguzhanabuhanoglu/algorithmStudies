@@ -16,5 +16,6 @@
         <page name='twoDimensiınalArr'/>
         <page name='pyramid'/>
         <page name='romanNumeral'/>
+        <page name='modifyString'/>
     </pages>
 </playground>
