@@ -17,5 +17,6 @@
         <page name='pyramid'/>
         <page name='romanNumeral'/>
         <page name='modifyString'/>
+        <page name='filtered'/>
     </pages>
 </playground>
