@@ -17,6 +17,7 @@
         <page name='pyramid'/>
         <page name='romanNumeral'/>
         <page name='modifyString'/>
-        <page name='filtered'/>
+        <page name='Multiples of 3 or 5'/>
+        <page name='CalculateStringRotation'/>
     </pages>
 </playground>

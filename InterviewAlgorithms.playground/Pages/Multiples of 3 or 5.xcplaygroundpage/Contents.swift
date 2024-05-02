@@ -11,7 +11,7 @@ var greeting = "Hello, playground"
 func filteredNumsSum(_ int: Int) -> Int {
     
     var array: [Int] = []
-    
+    var sum = 0
     for num in 0...int - 1{
         if num % 3 == 0 {
             array.append(num)
@@ -22,7 +22,7 @@ func filteredNumsSum(_ int: Int) -> Int {
         }
     }
     
-    var sum = 0
+    
     for num in array{
         sum += num
     }
@@ -30,4 +30,4 @@ func filteredNumsSum(_ int: Int) -> Int {
     return sum
 }
 
-filteredNumsSum(10)
+filteredNumsSum(16)
