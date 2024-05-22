@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
     <pages>
-        <page name='string filtrele'/>
-        <page name='index belirle'/>
-        <page name='tersini yazdır'/>
+        <page name='FilteredString'/>
+        <page name='Enumerated'/>
+        <page name='ReversedString'/>
         <page name='fibonacci'/>
         <page name='getIntegersFromString'/>
         <page name='findUnique'/>
@@ -21,5 +21,6 @@
         <page name='CalculateStringRotation'/>
         <page name='SortedBySecondCharacter'/>
         <page name='LastWordCountOfStr'/>
+        <page name='BiggestNumberInArray'/>
     </pages>
 </playground>
