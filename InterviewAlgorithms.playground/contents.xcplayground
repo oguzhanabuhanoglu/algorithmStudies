@@ -20,5 +20,6 @@
         <page name='Multiples of 3 or 5'/>
         <page name='CalculateStringRotation'/>
         <page name='SortedBySecondCharacter'/>
+        <page name='LastWordCountOfStr'/>
     </pages>
 </playground>

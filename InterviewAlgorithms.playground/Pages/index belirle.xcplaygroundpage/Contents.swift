@@ -8,13 +8,14 @@ import Foundation
 var nums = [2,3,11,15]
 var target = 26
 
-for num in nums {
+for (index1,num1) in nums.enumerated() {
     
-    for (index,num2) in nums.enumerated() {
+    //enumerated() metodu, bir dizideki her elemanı ve bu elemanın indeksini bir çift olarak döner.
+    for (index2,num2) in nums.enumerated() {
         
-        if num + num2 == target{
-            print("\(num), \(num2)")
-            print(index)
+        if num1 + num2 == target{
+            print("\(num1), \(num2)")
+            print(index1 ,index2)
         }
     }
 }
