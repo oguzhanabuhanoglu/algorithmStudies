@@ -10,7 +10,7 @@ var str2 = "asd-qwe-fgh-rty"
 var reversed = ""
 
 var array = str2.split(separator: "-")
-//print(array)
+print(array)
 
 for kelime in array {
     //print(kelime)
@@ -22,12 +22,12 @@ for kelime in array {
     reversed += "-"
 }
 reversed.removeLast()
-print(reversed)
+//print(reversed)
 
 
 // MARK: Another way
 
-var str = "HELLO"
+/*var str = "HELLO"
 
 var array2 = [Character]()
 
@@ -37,7 +37,7 @@ for i in str {
 
 for a in stride(from: array.count, through: 0, by: -1){
     print(array2[a], terminator: "")
-}
+}*/
 
 
 

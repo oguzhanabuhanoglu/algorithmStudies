@@ -22,5 +22,6 @@
         <page name='SortedBySecondCharacter'/>
         <page name='LastWordCountOfStr'/>
         <page name='BiggestNumberInArray'/>
+        <page name='ExcelColumnToNumbet'/>
     </pages>
 </playground>

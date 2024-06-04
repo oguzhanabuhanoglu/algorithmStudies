@@ -6,6 +6,8 @@ import UIKit
 var str = "merhaba ben oğuzhan bu benim ilk algoritma çalışmam bu son olmayacak benim algoritma öğrenmem lazım ilk çalışmam başladı."
 
 let kelimeler = str.components(separatedBy: .whitespaces)
+//let kelimeler = str.components(separatedBy: " ") -> this is also work like .split
+//let kelimeler = str.map({ String($0) }) -> this is also work but it is include whitespaces.
 print(kelimeler.count)
 
 var kelimeVeAdetler = [String:Int]()
