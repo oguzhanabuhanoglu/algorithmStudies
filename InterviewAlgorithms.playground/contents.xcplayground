@@ -23,5 +23,7 @@
         <page name='LastWordCountOfStr'/>
         <page name='BiggestNumberInArray'/>
         <page name='ExcelColumnToNumbet'/>
+        <page name='SumOfDigits'/>
+        <page name='PrizeDraw'/>
     </pages>
 </playground>

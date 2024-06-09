@@ -11,8 +11,7 @@ var sum = 0
 
 for i in strArray{
     
-    let a : Character = i
-    if let b = a.wholeNumberValue{
+    if let b = i.wholeNumberValue {
         sum += b
     }
     
