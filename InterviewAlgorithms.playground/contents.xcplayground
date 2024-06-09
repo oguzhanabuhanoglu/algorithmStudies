@@ -25,5 +25,6 @@
         <page name='ExcelColumnToNumbet'/>
         <page name='findMissing'/>
         <page name='SumOfDigits'/>
+        <page name='CountTheNumberOfDuplicates'/>
     </pages>
 </playground>
