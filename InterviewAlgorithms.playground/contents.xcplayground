@@ -26,5 +26,7 @@
         <page name='findMissing'/>
         <page name='SumOfDigits'/>
         <page name='CountTheNumberOfDuplicates'/>
+        <page name='IsMyFriendCheating?'/>
+        <page name='SplitStrings'/>
     </pages>
 </playground>
