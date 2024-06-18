@@ -28,5 +28,6 @@
         <page name='CountTheNumberOfDuplicates'/>
         <page name='IsMyFriendCheating?'/>
         <page name='SplitStrings'/>
+        <page name='MergeArrays'/>
     </pages>
 </playground>

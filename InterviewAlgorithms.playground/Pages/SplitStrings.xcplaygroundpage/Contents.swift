@@ -11,7 +11,6 @@ func splitStringIntoPairs(_ str: String) -> [String] {
     var index = str.startIndex
 
     while index < str.endIndex {ü
-        let nextIndexDeneme = str.index(index, offsetBy: 2, limitedBy: str.endIndex) ?? str.endIndex
         let nextIndex = str.index(index, offsetBy: 2, limitedBy: str.endIndex) ?? str.endIndex
         let pair = str[index..<nextIndex]
 
